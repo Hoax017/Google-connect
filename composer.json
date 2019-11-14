@@ -1,0 +1,7 @@
+{
+    "name": "dev/googleconnect",
+    "require": {
+        "google/auth": "^1.6",
+        "google/apiclient": "^2.0"
+    }
+}
